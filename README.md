@@ -14,3 +14,7 @@ Open report.html. On macOS/Linux use python3 if required.
 
 Files: data.csv (inputs), analysis.py (chart), report.qmd (report text).
 chart.png and report.html are generated outputs and are not committed.
+
+Practice: this line was added in repository A.
+
+歯抜けてない？？？
